@@ -9,6 +9,7 @@ import java.util.stream.Collectors;
  *
  * @author Anton Hristov
  * @since 26.04.2023
+ *
 * */
 public class Task01ConsumerPrint {
     public static void main(String[] args) {

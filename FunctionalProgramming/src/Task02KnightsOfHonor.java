@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
  *
  * @author Anton Hristov
  * @since 26.04.2023
+ *
  * */
 public class Task02KnightsOfHonor {
     public static void main(String[] args) {
