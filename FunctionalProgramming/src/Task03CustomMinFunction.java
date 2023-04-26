@@ -28,6 +28,6 @@ public class Task03CustomMinFunction {
             return min;
         };
         System.out.println(smallestNumber.apply(numbers));
-
+        scanner.close();
     }
 }
