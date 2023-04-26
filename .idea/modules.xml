@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DefiningClasses/DefiningClasses.iml" filepath="$PROJECT_DIR$/DefiningClasses/DefiningClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/Exam/Exam.iml" filepath="$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamPreparingTasks/ExamPreparingTasks.iml" filepath="$PROJECT_DIR$/ExamPreparingTasks/ExamPreparingTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" filepath="$PROJECT_DIR$/MultidimensionalArrays/MultidimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" filepath="$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" filepath="$PROJECT_DIR$/StacksAndQueues/StacksAndQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/ThirdTasks.iml" filepath="$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/ThirdTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/University/University.iml" filepath="$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/University/University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/Workout/Workout.iml" filepath="$PROJECT_DIR$/ExamPreparingTasks/ThirdTasks/Workout/Workout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop/Workshop.iml" filepath="$PROJECT_DIR$/Workshop/Workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaAdvanced.iml" filepath="$PROJECT_DIR$/.idea/javaAdvanced.iml" />
+    </modules>
+  </component>
+</project>
